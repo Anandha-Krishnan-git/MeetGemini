@@ -1,0 +1,6 @@
+google-cloud-speech
+openai
+transformers
+gtts
+spacy
+ffmpeg-python
