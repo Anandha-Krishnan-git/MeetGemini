@@ -4,3 +4,18 @@ transformers
 gtts
 spacy
 ffmpeg-python
+
+MeetGemini/
+├── audio_capture/
+│   └── capture_audio.py
+├── speech_to_text/
+│   └── transcribe.py
+├── question_detection/
+│   └── detect_questions.py
+├── ai_answering/
+│   └── answer_questions.py
+├── response_delivery/
+│   └── deliver_response.py
+├── main.py
+├── requirements.txt
+└── README.md
